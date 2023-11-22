@@ -1,0 +1,7 @@
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 13\ConAppDay13Assignment\ConAppDay13Assignment\bin\Debug\ConAppDay13Assignment.exe.config
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 13\ConAppDay13Assignment\ConAppDay13Assignment\bin\Debug\ConAppDay13Assignment.exe
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 13\ConAppDay13Assignment\ConAppDay13Assignment\bin\Debug\ConAppDay13Assignment.pdb
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 13\ConAppDay13Assignment\ConAppDay13Assignment\obj\Debug\ConAppDay13Assignment.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 13\ConAppDay13Assignment\ConAppDay13Assignment\obj\Debug\ConAppDay13Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 13\ConAppDay13Assignment\ConAppDay13Assignment\obj\Debug\ConAppDay13Assignment.exe
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 13\ConAppDay13Assignment\ConAppDay13Assignment\obj\Debug\ConAppDay13Assignment.pdb
